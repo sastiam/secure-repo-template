@@ -1,0 +1,20 @@
+version: 2
+updates:
+  # Mantiene al día las acciones fijadas por SHA
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+    commit-message:
+      prefix: ci
+  # Añade aquí el ecosistema del proyecto (npm, bun, pip, cargo, gomod, docker...).
+  # Ejemplo:
+  # - package-ecosystem: npm
+  #   directory: /
+  #   schedule:
+  #     interval: weekly
+  #   commit-message:
+  #     prefix: chore
+  #   groups:
+  #     dev-dependencies:
+  #       dependency-type: development
