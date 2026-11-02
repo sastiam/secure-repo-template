@@ -1,8 +1,8 @@
-# repo-base
+# Nombre del proyecto
 
 > Una frase que diga qué hace este proyecto y para quién.
 
-[![CI](https://github.com/sastiam/repo-base/actions/workflows/ci.yml/badge.svg)](https://github.com/sastiam/repo-base/actions/workflows/ci.yml)
+<!-- Insignia de CI (sustituye NOMBRE): [![CI](https://github.com/sastiam/NOMBRE/actions/workflows/ci.yml/badge.svg)](https://github.com/sastiam/NOMBRE/actions/workflows/ci.yml) -->
 
 ## Por qué existe
 Qué problema resuelve y qué alternativas existen. Sé concreto y honesto: qué hace bien y qué no hace.

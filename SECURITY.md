@@ -8,7 +8,7 @@ Only the latest release (or the `main` branch while the project is pre-1.0) rece
 
 Please **do not** open a public issue for security problems.
 
-Report privately through GitHub: [Report a vulnerability](https://github.com/sastiam/repo-base/security/advisories/new).
+Report privately through GitHub: open the **Security** tab of this repository and choose **Report a vulnerability**.
 
 Include a description, affected versions, and steps to reproduce. This is a personal project maintained by one person: you can expect an initial response within 7 days, with no guarantee of a fix timeline.
 
